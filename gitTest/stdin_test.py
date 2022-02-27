@@ -6,7 +6,9 @@ import sys
 import logging
 import contextlib
 
-
+#----------------------------
+#   Ver1.0
+#----------------------------
 
 #x = input('enter')
 #print(x)
@@ -24,3 +26,4 @@ print(x)
 with open('stdout.log','w') as f:
     with contextlib.redirect_stdout(f): 
         print('Hello!')
+
