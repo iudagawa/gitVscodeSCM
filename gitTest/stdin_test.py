@@ -1,9 +1,11 @@
 """
  Ver1.0
+ https://github.com/iudagawa/gitVscodeSCM.git
 """
 import sys
 import logging
 import contextlib
+
 
 
 #x = input('enter')
